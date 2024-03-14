@@ -1,7 +1,0 @@
-Running: xsim.dir/tb_fsic_xelab/xsimk -simmode gui -wdb tb_fsic_xelab.wdb -simrunnum 0 -socket 40175
-Design successfully loaded
-Design Loading Memory Usage: 32924 KB (Peak: 32924 KB)
-Design Loading CPU Usage: 0 ms
-Simulation completed
-Simulation Memory Usage: 129996 KB (Peak: 172192 KB)
-Simulation CPU Usage: 200 ms
